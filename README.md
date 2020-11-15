@@ -1,5 +1,5 @@
 # CyberPatriot Soundboard 2
-Improved Version (EricChen01/cpsoundboard2) of ErikBoesen's CP Soundboard (ErikBoesen/cpsoundboard) by EricChen01<br />
+SEENEWVERSIONImproved Version (EricChen01/cpsoundboard2) of ErikBoesen's CP Soundboard (ErikBoesen/cpsoundboard) by EricChen01<br />
 Play everyone's favorite sound effects at the click of a button!<br />
 Originally created by Erik Boesen (ErikBoesen), improvements made by Eric Chen (EricChen01). No copyright infringement intended in any way.<br />
 

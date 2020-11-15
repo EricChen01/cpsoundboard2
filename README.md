@@ -1,4 +1,5 @@
 # CyberPatriot Soundboard 2
+See Version Using CP-XIII Sounds: EricChen01/cpsoundboard2-2cpxiii (This current version uses CP-XI-CP-XII sounds) See New Link for Soundboard with CP-XIII Sounds
 Improved Version (EricChen01/cpsoundboard2) of ErikBoesen's CP Soundboard (ErikBoesen/cpsoundboard) by EricChen01<br />
 Play everyone's favorite sound effects at the click of a button!<br />
 Originally created by Erik Boesen (ErikBoesen), improvements made by Eric Chen (EricChen01). No copyright infringement intended in any way.<br />
